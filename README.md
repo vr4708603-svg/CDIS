@@ -1,0 +1,5 @@
+# CDIS
+
+- `PROJECT/`
+- `PRACTICAL/`
+- `SKILL/`
